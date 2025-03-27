@@ -1,8 +1,8 @@
 import java.util.Scanner;
 public class Condicionaiscomposta {
 
- int nota = 0;
- int media = 7;
+ int nota = 00;
+ int media = 6;
 
     public static void main(String[] args) {
       Condicionaiscomposta cNotas = new Condicionaiscomposta();
